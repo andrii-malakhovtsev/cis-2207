@@ -1,9 +1,9 @@
-#ifndef PRECOND_VIOLATED_EXCEPT_
 // Andrii Malakhovtsev
 // CIS 2207 501
-// 04.06.2025
+// 05.06.2025
 // Binary Search Tree
 
+#ifndef PRECOND_VIOLATED_EXCEPT_
 #define PRECOND_VIOLATED_EXCEPT_
 
 #include <stdexcept>

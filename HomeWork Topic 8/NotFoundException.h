@@ -1,6 +1,6 @@
 // Andrii Malakhovtsev
 // CIS 2207 501
-// 04.06.2025
+// 05.06.2025
 // Binary Search Tree
 
 #ifndef NOT_FOUND_EXCEPTION_
